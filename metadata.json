@@ -1,0 +1,6 @@
+{
+  "name": "3D Interactive Book Showcase",
+  "description": "An immersive, scroll-driven cinematic 3D book experience for IISPPR Academy with interactive page flipping and realistic physical simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
